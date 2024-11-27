@@ -1,0 +1,66 @@
+body{
+    background-color: orange;
+    display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+.box{
+    width: 60%;
+    height: auto;
+    background-color: white;
+}
+.p1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.col1{
+    text-align: center;
+}
+.col2{
+    width: 56%;
+    height: 13vh;
+    text-align: end;
+    margin-left: 6%;
+}
+.col3{
+    width: 64%;
+    height: 3vh;
+    display: flex;
+ justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 6%;
+}
+#arun{
+    width: 28%;
+    height: 3vh;
+}
+.col4{
+    
+    display: flex;
+    text-align: center;
+    margin-left: 19%;
+}
+.col5{
+    display: flex;
+    justify-content: center;
+    margin-right: 17%;
+    
+}
+.col7{
+    display: flex;
+    margin-left: 23%;
+    
+}
+#sub{
+    width: 10%;
+    height: 2vh;
+    background-color: orange;
+    border: 1px solid;
+    color: white;
+}
+.col8{
+    display: flex;
+        justify-content: center;
+        margin-bottom: 1%;
+}
